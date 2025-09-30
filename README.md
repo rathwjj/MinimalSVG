@@ -2,6 +2,13 @@
 gnome icon test  
 This is the project to create SVG icon for theme with geometry method on Gnome.  
 
+This is for testing my skill in both SVG and model the ideas of gnome customization.  
+The icon will be separated generally to one action and one objects for each icon.  
+Action is Add(Plus) - Edit - Delete(Erase) - Copy - New - Cancel - Paste - Minus - Open - Close - View - Search.
+Objects May refer to Paper(Document) Phone(Call) Speech Bubble (Message) Human (User/Contact). 
+For make this two part mean I can recycle same Icon time to time.
+The action part has color in it add new plus = Green, Cancel, Minus, Delete = Red, Edit or do something to property = Yellow / Orange.
+
 The detail of files from https://developer.gnome.org/documentation/tutorials/themed-icons.html / https://specifications.freedesktop.org/icon-naming-spec/latest/  
 
 
